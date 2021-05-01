@@ -1,2 +1,3 @@
-# portfolio-dimensions
- Web Dev Portfolio
+This is my developer portfolio.
+
+Hosted at https://russelltallen-dev.netlify.com
